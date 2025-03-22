@@ -34,37 +34,20 @@
 ## 📈 Skill Level  
 
 ### **📊 Data Science**
-<svg width="200" height="20">
-  <rect width="200" height="20" fill="lightgray"/>
-  <rect width="160" height="20" fill="blue"/>
-</svg> **80%**  
+`██████████░░░░░░ 70%`
 
 ### **⚡ Programming**
-<svg width="200" height="20">
-  <rect width="200" height="20" fill="lightgray"/>
-  <rect width="140" height="20" fill="green"/>
-</svg> **70%**  
+`██████████░░░░░░ 70%`
 
 ### **🛠 Automation**
-<svg width="200" height="20">
-  <rect width="200" height="20" fill="lightgray"/>
-  <rect width="180" height="20" fill="purple"/>
-</svg> **90%**  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" height="150"/>
-</p>
+`██████████░░░░░░ 70%`
 
 ---
 
 ## 🌎 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff9800?style=for-the-badge&logo=web&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muraciandungu)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muracia_ndungu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff9800?style=for-the-badge&logo=web&logoColor=white)](https://muracia.github.io)
 
 ---
 
